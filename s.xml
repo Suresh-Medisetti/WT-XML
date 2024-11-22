@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userlist>
+    <user>
+        <userid>101</userid>
+        <username>Anusha</username>
+        <address>DSNR</address>
+        <phone>8801550102</phone>
+        <email>anusha@gmail.com</email>
+    </user>
+    <user>
+        <userid>102</userid>
+        <username>D Divakar</username>
+        <address>Ameerpet</address>
+        <phone>988888888</phone>
+        <email>DDivakar@gmail.com</email>
+    </user>
+    <user>
+        <userid>103</userid>
+        <username>Rajnith</username>
+        <address>SR Nagar</address>
+        <phone>9866666666</phone>
+        <email>Rajnith@gmail.com</email>
+    </user>
+    <user>
+        <userid>104</userid>
+        <username>M Vijaya</username>
+        <address>DESHMUKHI</address>
+        <phone>9835994445</phone>
+        <email>mvijaya@yahoo.com</email>
+    </user>
+    <user>
+        <userid>105</userid>
+        <username>Kusuma</username>
+        <address>KOTI</address>
+        <phone>9688775555</phone>
+        <email>Kusuma@yahoo.com</email>
+    </user>
+</userlist>
